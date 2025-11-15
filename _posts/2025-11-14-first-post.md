@@ -3,6 +3,7 @@ title: "Welcome to my website"
 date: 2025-11-14 18:13:00 +0000
 categories: [Post]
 tags: [dfa, wicys] 
+by: "Darius Swift"
 description: "This is my first post on my website guys!"
 ---
 <p align="center"> 
